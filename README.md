@@ -27,7 +27,7 @@ tarea-redes-neuronales-[grupo]/
 │   └── 03_Análisis_resultados.ipynb
 ├── results/
 │   ├── 01_cm_nn.png
-|   ├── 01_cm_sm.png}
+|   ├── 01_cm_sm.png
 |   ├── 01_distribucion_clases.png
 │   ├── 01_performance_comparaciones.csv
 │   └──...
